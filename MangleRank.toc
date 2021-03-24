@@ -1,0 +1,20 @@
+## Interface: 20400
+## Title: MangleRank
+## Author: Jannik
+## Version: 1.0
+## Notes: Notifies when people use mangle rank 1, to remind that they need to train it after respec
+## X-eMail: javekDev@gmail.com
+## X-Category: Combat
+## X-AceForum: 
+## X-Website: 
+## RequiredDeps: 
+## OptionalDeps: 
+## X-Embeds:
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: MangleRank
+
+embeds.xml
+
+MangleRankLocale-enUS.lua
+manglerank.lua
